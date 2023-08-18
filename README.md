@@ -1,2 +1,2 @@
 # github-workflow
-my first reository on GitHub
+my first repository on GitHub
